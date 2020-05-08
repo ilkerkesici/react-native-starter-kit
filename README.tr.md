@@ -1,3 +1,13 @@
+<p>
+  <a href="https://github.com/ilkerkesici/react-native-starter-kit/blob/master/README.tr.md">
+    <img alt="Build Status" src="https://img.shields.io/static/v1?label=dil&message=tr&color=red" target="_blank" />
+ </a>
+  <a href="https://github.com/ilkerkesici/react-native-starter-kit/blob/master/README.md">
+    <img alt="Documentation" src="https://img.shields.io/static/v1?label=lang&message=en&color=blue" target="_blank" />
+  </a>
+  
+</p>
+
 # react-native-starter-kit
 Bu proje, tek bir komutla react-native projesi başlatma kitidir. Projeye kendi şablonlarınızı ekleyerek katkıda bulunabilirsiniz.
 
