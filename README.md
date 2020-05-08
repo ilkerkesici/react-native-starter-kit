@@ -19,8 +19,7 @@ The project is a custom starter kit to build TypeScript react-native apps only o
 ## :warning: Dependency
 ### Note on installation
 These starter pack use 'yarn' while installing react-native dependencies. Thus you must install 'yarn' before creating an app.
-### Note on the legacy CLI
-There seems to be quite some confusion about the legacy CLI. This template only works with the new CLI. Make sure you have uninstalled the legacy `react-native-cli` first (`npm uninstall -g react-native-cli`), for the below command to work. If you wish to not use `npx`, you can also install the new CLI globally (`npm i -g @react-native-community/cli` or `yarn global add @react-native-community/cli`).
+
 
 ## :flashlight: Usage
 ### :iphone: Creating an App
