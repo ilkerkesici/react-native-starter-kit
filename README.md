@@ -20,9 +20,7 @@ The project is a custom starter kit to build TypeScript react-native apps only o
 ### Note on installation
 These starter pack use 'yarn' while installing react-native dependencies. Thus you must install 'yarn' before creating an app.
 
-
-## :flashlight: Usage
-### :iphone: Creating an App
+## :arrow_down: Installation
 #### Clone this repository
 
 ```sh
@@ -38,6 +36,10 @@ cd react-native-starter-kit
 ```sh
 chmod +x create_component.sh
 ```
+
+## :flashlight: Usage
+### :iphone: Creating an App
+
 #### Run create_app.sh
 
 ```sh
