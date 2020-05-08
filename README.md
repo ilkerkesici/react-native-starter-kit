@@ -1,5 +1,5 @@
 # react-native-starter-kit
-This repository contains my react-native starter kit for starting a TypeScript app quickly.
+The project is a custom starter kit to build TypeScript react-native apps only one click. Also, you can contribute to the project by adding your template.
 
 ## :star2: Features
 - Start an app quickly with TypeScript
@@ -33,6 +33,11 @@ git clone https://github.com/ilkerkesici/react-native-starter-kit.git
 
 ```sh
 cd react-native-starter-kit
+```
+#### Permission for create_app.sh
+
+```sh
+chmod +x create_component.sh
 ```
 #### Run create_app.sh
 
