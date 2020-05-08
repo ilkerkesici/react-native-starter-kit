@@ -80,3 +80,6 @@ You must create a bash file like 'create_authantication_template.sh' file. You m
 
 #### Creating src folder
 You must create folder name is src, and add your tamplete or your components into this folder.
+
+#### Opening a pull request
+After you've made your changes or added features, you should open a pull request.
