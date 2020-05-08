@@ -1,0 +1,16 @@
+{
+    "TITLE": "tr",
+    "LOGIN_SCREEN" : {
+        "HEADER": "Giriş",
+        "EMAIL": "E-Posta",
+        "PASSWORD": "Şifre",
+        "NO_ACCOUNT": "Henüz bir hesabın yoksa, ",
+        "REGISTER": "Kayıt Ol!"
+    },
+    "REGISTER_SCREEN":{
+        "HEADER": "Kayıt Ol",
+        "EMAIL": "E-Posta",
+        "PASSWORD": "Şifre",
+        "CONFIRM_PASSWORD": "Tekrar Şifre"
+    }
+}
