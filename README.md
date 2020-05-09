@@ -29,6 +29,8 @@ The project is a custom starter kit to build TypeScript react-native apps only o
   <img src="https://github.com/ilkerkesici/react-native-starter-kit/blob/master/template/only_auth/assets/register_ss.png" alt="alt text" width="350px" height="650px">
 </p>
 
+![](./template/chat/assets/dropdown_usage.gif)
+
 ## :warning: Dependency
 ### Note on installation
 These starter pack use 'yarn' while installing react-native dependencies. Thus you must install 'yarn' before creating an app.
