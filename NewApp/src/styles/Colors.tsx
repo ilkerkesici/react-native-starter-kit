@@ -1,0 +1,9 @@
+export const PRIMARY_COLOR = '#1976d2';
+export const PRIMARY_DARK_COLOR = '#004ba0';
+export const PRIMARY_LIGHT_COLOR = '#6ec6ff';
+export const WHITE_COLOR = '#ffffff';
+export const SECONDARY_COLOR = '#757575';
+export const SECONDARY_DARK_COLOR ='#494949';
+export const SECONDARY_LIGHT_COLOR ='#a4a4a4';
+export const BLACK_COLOR = 'black';
+export const LIGHT_GRAY = '#D3D3D3';

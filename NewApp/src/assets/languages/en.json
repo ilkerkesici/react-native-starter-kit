@@ -1,0 +1,35 @@
+{
+    "TITLE": "en",
+    "LOGIN_SCREEN" : {
+        "HEADER": "Login",
+        "EMAIL": "Email",
+        "PASSWORD": "Password",
+        "NO_ACCOUNT": "If you have not an acoount yet, ",
+        "REGISTER": "Sign Up!",
+        "INVALID_LOGIN": "Invalid username or password!"
+    },
+    "REGISTER_SCREEN":{
+        "HEADER": "Register",
+        "EMAIL": "Email",
+        "PASSWORD": "Password",
+        "CONFIRM_PASSWORD": "Confirm Password",
+        "REGISTER_SUCCESS": "Registeration is succesfull!",
+        "MISMATCH_PASSWORD": "Passwords are not match!"
+    },
+    "USERS_SCREEN":{
+        "HEADER": "Users"
+    },
+    "ALL_MESSAGES_SCREEN": {
+        "HEADER": "Messages"
+    },
+    "MESSAGING_SCREEN": {
+        "ONLINE": "Online",
+        "LOADING": "Loading",
+        "LAST_SEEN": "Last Seen",
+        "WRITE": "Write"
+    },
+    "UTIL": {
+        "UNEXPECTED_ERROR": "There is an unexpected error!",
+        "INVALID_FIELDS": "Fields are invalid!"
+    }
+}

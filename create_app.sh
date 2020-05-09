@@ -4,6 +4,13 @@
 echo Enter the app name?
 read app
 
+echo "
+
+-- Templates --
+- auth
+- chat
+(Press Enter if you don't select a template)
+"
 echo Enter template name?
 read template # template name
 
@@ -101,8 +108,12 @@ cp -R ./create_component.sh ./$app
 
 
 if [ $template = "auth" ]; then
-    chmod +x create_authantication_template.sh  # Give permission for execute
-    ./create_authantication_template.sh $app
+    chmod +x ./template/only_auth/create_authantication_template.sh  # Give permission for execute
+    ./template/chat/create_authantication_template.sh $app
+elif [ $template = "chat" ]
+then
+    chmod +x ./template/chat/create_chat_template.sh  # Give permission for execute
+    ./template/chat/create_chat_template.sh $app
 else
     cd ./$app
     npx react-native run-ios --simulator="iPhone 8" 

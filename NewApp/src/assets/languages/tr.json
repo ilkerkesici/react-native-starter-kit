@@ -1,0 +1,35 @@
+{
+    "TITLE": "tr",
+    "LOGIN_SCREEN" : {
+        "HEADER": "Giriş",
+        "EMAIL": "E-Posta",
+        "PASSWORD": "Şifre",
+        "NO_ACCOUNT": "Henüz bir hesabın yoksa, ",
+        "REGISTER": "Kayıt Ol!",
+        "INVALID_LOGIN": "Kullanıcı adı veya şifre geçersiz!"
+    },
+    "REGISTER_SCREEN":{
+        "HEADER": "Kayıt Ol",
+        "EMAIL": "E-Posta",
+        "PASSWORD": "Şifre",
+        "CONFIRM_PASSWORD": "Tekrar Şifre",
+        "REGISTER_SUCCESS": "Başarıyla kayıt oldunuz!",
+        "MISMATCH_PASSWORD": "Şifreler uyuşmuyor!"
+    },
+    "USERS_SCREEN":{
+        "HEADER": "Kullanıcılar"
+    },
+    "ALL_MESSAGES_SCREEN": {
+        "HEADER": "Mesajlar"
+    },
+    "MESSAGING_SCREEN": {
+        "ONLINE": "Çevrimiçi",
+        "LOADING": "Yükleniyor",
+        "LAST_SEEN": "Son Görülme",
+        "WRITE": "Yaz"
+    },
+    "UTIL": {
+        "UNEXPECTED_ERROR": "Beklenmedik bir hata oluştu!",
+        "INVALID_FIELDS": "Alanlar geçersiz dolduruldu!"
+    }
+}
