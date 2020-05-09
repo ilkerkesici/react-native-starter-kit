@@ -17,14 +17,19 @@ Bu proje, tek bir komutla react-native projesi başlatma kitidir. Projeye kendi 
 - Hızlıca mimariye uygun bileşenlerinizi (component) oluşturma
 
 ## :clipboard: Şablonlar
-- Auth
+- auth
 >Basit bir giriş yapma ve kayıt olma şablonu. Daha fazla bilgi için <a href="https://github.com/ilkerkesici/react-native-starter-kit/tree/master/template/only_auth"> tıklayınız. </a>
+
+- chat
+>Basit bir mesajlaşma şablonu. Daha fazla bilgi için <a href="https://github.com/ilkerkesici/react-native-starter-kit/blob/master/template/chat/README.tr.md"> tıklayınız. </a>
 
 ## :star: Ekran görüntüleri
 <p float="left">
   <img src="https://github.com/ilkerkesici/react-native-starter-kit/blob/master/template/only_auth/assets/login_ss_1.png" alt="alt text" width="350px" height="650px">
   <img src="https://github.com/ilkerkesici/react-native-starter-kit/blob/master/template/only_auth/assets/register_ss.png" alt="alt text" width="350px" height="650px">
 </p>
+
+![](./template/chat/assets/dropdown_usage.gif)
 
 ## :warning: Bağımlılıklar
 ### Kurulum notu
