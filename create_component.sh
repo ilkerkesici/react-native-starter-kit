@@ -27,7 +27,7 @@ interface I${component}State{ }
 interface I${component}Props{ }
 
 export const ${component} = (props: I${component}Props) => {
-    const [state, setState] = useState<ILoginState>({ });
+    const [state, setState] = useState<I${component}State>({ });
 
     return (
         <View style={styles.container}>
