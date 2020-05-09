@@ -88,7 +88,6 @@ import {
 } from 'react-native';
 
 
-
 const App = () => {
   return (
     <>
