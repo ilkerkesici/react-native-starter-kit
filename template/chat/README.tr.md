@@ -5,8 +5,8 @@
   <a href="https://github.com/ilkerkesici/react-native-starter-kit/blob/master/template/chat/README.md">
     <img alt="Documentation" src="https://img.shields.io/static/v1?label=lang&message=en&color=blue" target="_blank" />
   </a>
-  
 </p>
+
 # React-Native ve Socket.io ile Mesajlaşma Şablonu 
 
 > Hızlıca Typescript ile react-native mesajlaşma uyguluması oluşturma paketi.
