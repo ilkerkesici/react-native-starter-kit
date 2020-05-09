@@ -45,7 +45,7 @@ cd react-native-starter-kit
 ```sh
 ./create_app.sh
 ```
-#### U,ygulamanızın ismini girin
+#### Oluşturmak istediğiniz uygulamanızın ismini girin
 
 ```sh
 # Enter your app name :
