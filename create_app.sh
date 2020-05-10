@@ -108,7 +108,7 @@ cp -R ./create_component.sh ./$app
 
 if [ $template = "auth" ]; then
     chmod +x ./template/only_auth/create_authantication_template.sh  # Give permission for execute
-    ./template/chat/create_authantication_template.sh $app
+    ./template/only_auth/create_authantication_template.sh $app
 elif [ $template = "chat" ]
 then
     chmod +x ./template/chat/create_chat_template.sh  # Give permission for execute
