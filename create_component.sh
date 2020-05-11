@@ -20,8 +20,8 @@ touch $component.$file_type
 echo "  
 import React, { useState } from 'react';
 import { View, Text } from 'react-native';
-import { styles } from './${component}.styles.${file_type}';
-import {  } from './${component}.action';
+import { styles } from './${component}.styles';
+import {  } from './${component}';
 
 interface I${component}State{ }
 interface I${component}Props{ }
@@ -40,6 +40,6 @@ export const ${component} = (props: I${component}Props) => {
 
 touch index.$file_type
 
-echo "export * from ./${component};" >> index.$file_type
+echo "export * from './${component};'" >> index.$file_type
 
 touch ${component}.action.${file_type}
