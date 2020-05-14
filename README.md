@@ -15,13 +15,18 @@ The project is a custom starter kit to build TypeScript react-native apps only o
 - Start an app quickly with TypeScript
 - Start an app with a template
 - Create your component directory quickly
+- Support JS and TS
 
 ## :clipboard: Templates
+### Typescript
 - auth
 >Basic authantication tamplete for quick start. <a href="https://github.com/ilkerkesici/react-native-starter-kit/tree/master/template/only_auth"> Click here </a> for more information.
 
 - chat
 >Basic chat tamplete for quick start. <a href="https://github.com/ilkerkesici/react-native-starter-kit/tree/master/template/chat"> Click here </a> for more information.
+
+### Javascript
+>There is no template for Javascript yet. 
 
 ## :star: Screenshots
 <p float="left">
