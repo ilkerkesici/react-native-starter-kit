@@ -15,13 +15,18 @@ Bu proje, tek bir komutla react-native projesi başlatma kitidir. Projeye kendi 
 - Hızlıca bir Typescript uygulama oluşturma
 - Hızlıca sorun yaşamadan bir şablon(template) ile uygulama oluşturma
 - Hızlıca mimariye uygun bileşenlerinizi (component) oluşturma
+- JS ve TS desteği
 
 ## :clipboard: Şablonlar
+### Typescript
 - auth
 >Basit bir giriş yapma ve kayıt olma şablonu. Daha fazla bilgi için <a href="https://github.com/ilkerkesici/react-native-starter-kit/tree/master/template/only_auth"> tıklayınız. </a>
 
 - chat
 >Basit bir mesajlaşma şablonu. Daha fazla bilgi için <a href="https://github.com/ilkerkesici/react-native-starter-kit/blob/master/template/chat/README.tr.md"> tıklayınız. </a>
+
+### Javascript
+>Javascript için henüz bir şablon bulunmamakta.
 
 ## :star: Ekran görüntüleri
 <p float="left">
