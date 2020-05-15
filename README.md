@@ -12,10 +12,9 @@
 The project is a custom starter kit to build TypeScript react-native apps only one click. Also, you can contribute to the project by adding your template.
 
 ## :star2: Features
-- Start an app quickly with TypeScript
+- Start an app quickly with TypeScript or Javascript
 - Start an app with a template
 - Create your component directory quickly
-- Support JS and TS
 
 ## :clipboard: Templates
 ### Typescript
