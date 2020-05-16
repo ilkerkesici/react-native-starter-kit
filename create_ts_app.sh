@@ -8,7 +8,7 @@ echo Enter template name?
 read template # template name
 
 # Create app the given app name
-npx react-native init $1 --template typescript  #1 is app name from create_app.sh
+npx react-native init $1  #1 is app name from create_app.sh
 echo Your app, $1 is created successfully!
 cd ./$1
 
@@ -31,9 +31,6 @@ echo "module.exports = {
   },
 };" >> rn-cli.config.js
 
-# remove template folder
-# If dont't remove, dublicate error exist
-rm -rf template
 
 # Create tsconfig.json file
 rm -rf tsconfig.json
