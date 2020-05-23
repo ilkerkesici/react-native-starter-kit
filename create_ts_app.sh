@@ -62,10 +62,14 @@ echo ".jest/" >> .gitignore
 
 rm -rf App.js
 
-# Install pod dependencies
-cd ios
-pod install
-cd ..
+if [[ "$OSTYPE" == "darwin"* ]]; then
+        # Mac OSX
+        # Install pod dependencies
+        cd ios
+        pod install
+        cd ..
+fi
+
 
 # Create typescript App file
 touch App.tsx

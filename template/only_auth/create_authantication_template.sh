@@ -41,12 +41,15 @@ export default App;
 
 yarn add @types/react-native-vector-icons @types/react-redux @types/redux @types/redux-thunk react-native-dropdownalert react-native-gesture-handler react-native-reanimated react-native-router-flux react-native-screens react-native-vector-icons react-redux @react-native-community/async-storage
 
-cd ios
-pod install
-cd ..
-
-echo Your app is opening ...
-npx react-native run-ios --simulator="iPhone 8" 
+if [[ "$OSTYPE" == "darwin"* ]]; then
+        # Mac OSX
+        # Install pod dependencies
+        cd ios
+        pod install
+        cd ..
+        echo Your app is opening ...
+        npx react-native run-ios --simulator="iPhone 8" 
+fi
 
 
 
