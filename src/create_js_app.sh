@@ -1,4 +1,3 @@
-cd .. # Go to upper level
 echo Your app name is $1
 echo "
 There is no template for js so 

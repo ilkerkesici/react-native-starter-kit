@@ -7,7 +7,6 @@ echo "
 echo Enter template name?
 read template # template name
 
-cd .. # Go to upper level
 
 # Create app the given app name
 npx react-native init $1  #1 is app name from create_app.sh
