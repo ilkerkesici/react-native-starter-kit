@@ -1,5 +1,5 @@
 echo creating your authanticate_template....
-echo $1 createing template
+echo $1 creating template
 
 
 cp -R ./template/only_auth/src ./$1

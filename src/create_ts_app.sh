@@ -2,6 +2,7 @@ echo "
 -- Templates --
 - auth
 - chat
+- yarmi
 (Press Enter if you don't select a template)
 "
 echo Enter template name?
@@ -108,6 +109,10 @@ elif [ $template = "chat" ]
 then
     chmod +x ./template/chat/create_chat_template.sh  # Give permission for execute
     ./template/chat/create_chat_template.sh $1
+elif [ $template = "yarmi" ]
+then
+    chmod +x ./template/yarmi/create_yarmi_template.sh  # Give permission for execute
+    ./template/yarmi/create_yarmi_template.sh $1
 else
     echo your app is created 
 fi;

@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "jsx": "react",
+    "lib": ["es6"],
+    "moduleResolution": "node",
+    "noEmit": true,
+    "strict": true,
+    "target": "esnext",
+    "resolveJsonModule": true,
+    "baseUrl": "./src", // all paths are relative to the baseUrl
+    "paths": {
+      "screens": ["./screens"],
+      "components": ["./components"],
+      "styles": ["./styles"],
+      "helpers": ["./helpers"],
+      "reducers": ["./reducers"],
+      "store": ["./store"],
+      "config": ["./config"],
+      "containers": ["./containers"],
+      "assets": ["./assets"],
+      "enums": ["./enums"]
+    },
+  }
+}
