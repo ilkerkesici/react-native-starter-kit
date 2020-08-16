@@ -25,7 +25,7 @@ The project is a custom starter kit to build TypeScript react-native apps only o
 >Basic chat tamplete for quick start. <a href="https://github.com/ilkerkesici/react-native-starter-kit/tree/master/template/chat"> Click here </a> for more information.
 
 - yarmi
->Basic chat tamplete for quick start. <a href="https://github.com/ilkerkesici/react-native-starter-kit/tree/master/template/yarmi"> Click here </a> for more information.
+>Basic yarmi tamplete for quick start. <a href="https://github.com/ilkerkesici/react-native-starter-kit/tree/master/template/yarmi"> Click here </a> for more information.
 
 ### Javascript
 >There is no template for Javascript yet. 
@@ -35,8 +35,8 @@ The project is a custom starter kit to build TypeScript react-native apps only o
   <img src="https://github.com/ilkerkesici/react-native-starter-kit/blob/master/template/only_auth/assets/login_ss_1.png" alt="alt text" width="350px" height="650px">
   <img src="https://github.com/ilkerkesici/react-native-starter-kit/blob/master/template/only_auth/assets/register_ss.png" alt="alt text" width="350px" height="650px">
   <img src="https://github.com/ilkerkesici/react-native-starter-kit/blob/master/template/yarmi/assets/1.png" alt="alt text" width="350px" height="650px">
-  <img src="https://github.com/ilkerkesici/react-native-starter-kit/blob/master/template/yarmi/assets/3.png" alt="alt text" width="350px" height="650px">
-  <img src="https://github.com/ilkerkesici/react-native-starter-kit/blob/master/template/yarmi/assets/6.png" alt="alt text" width="350px" height="650px">
+  <img src="https://github.com/ilkerkesici/react-native-starter-kit/blob/master/template/yarmi/assets/4.png" alt="alt text" width="350px" height="650px">
+  <img src="https://github.com/ilkerkesici/react-native-starter-kit/blob/master/template/yarmi/assets/8.png" alt="alt text" width="350px" height="650px">
   <img src="https://github.com/ilkerkesici/react-native-starter-kit/blob/master/template/yarmi/assets/9.png" alt="alt text" width="350px" height="650px">
 </p>
 
