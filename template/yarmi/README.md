@@ -1,5 +1,5 @@
-# React Native Authantication Template
-> Clean and minimalist React Native template for a quick start an app with authantication with TypeScript.
+# React Native Yarmi Template
+> Clean and minimalist React Native template for a quick start an app which name is yarmi with TypeScript.
 
 ## Features
 - Multilanguage
